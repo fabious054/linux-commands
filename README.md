@@ -5,7 +5,11 @@
 - **CAT > [ARCHIVE NAME]** `Used to add something on archive`
 - **CAT [ARCHIVE NAME]** `Used to read the archive`
 - **MKDIR [DIR NAME]** `Used to creat a new directory`
-- **TAR -CZF [ARCHIVE NAME].TAR.GZ** `create a compressed archive`
+- **MV [ARQC TO MOVE] [DIRCT TO ...]** `Used to creat a new directory`
+- **TAR -CZF [ARCHIVE NAME].TAR.GZ [ARCHIVE TO COMPACT INSIDE]** `create a compressed archive`
+- **RM [ARCHIVE NAME]** `used to remove archive`
+- **chmod +x [archive name]**  `change the permission to execute the arqchive`
+
 
 ## SUDO COMMANDS
 - **sudo apt update** `update linux`
@@ -25,6 +29,7 @@
 - **HISTORY** `displays command history`
 - **CRTL + D** `finish the digitation mode`
 - **ECHO "text"** `writee the txt like a debuger`
+- **TOP** `Show a list of process executing on server `
 
 
 
